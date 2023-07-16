@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 - [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-FSpOai6bqt)
-- [Live Page](https://markogilic.github.io/interactive-card-details-form-main/)
+- [Live Page](https://markogilic.github.io/interactive-rating-component-main/)
 
 ## Author
 
